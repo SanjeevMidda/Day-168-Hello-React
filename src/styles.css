@@ -1,0 +1,22 @@
+/* 1. */
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+/* 2 */
+*{
+    text-align: center;
+}
+
+
+/*
+    Thinking
+        A custom stylesheet for my content in index.js.
+        
+        1. Our body element given a display property of flex, and center value for justofy-content an align-items so I can center align my content.
+
+        2. All text will be aligned ot the center.
+*/
